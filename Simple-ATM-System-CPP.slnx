@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Simple-ATM-System-CPP.vcxproj" Id="ee1ec86f-83dc-4a34-9eda-58a6674f781b" />
+</Solution>
